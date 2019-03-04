@@ -1,4 +1,1 @@
-{"name":"foo","label":"master","propertySources":[
-  {"name":"https://github.com/scratches/config-repo/foo-development.properties","source":{"bar":"spam"}},
-  {"name":"https://github.com/scratches/config-repo/foo.properties","source":{"foo":"bar"}}
-]}
+{url:"www.baidu.com"}
